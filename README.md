@@ -1,5 +1,5 @@
-A Skeleton Flask and STS Platform App
-=====================================
+A Skeleton Sinatra and STS Platform App
+=======================================
 
 This is a skeleton application written in Ruby and using the Sinatra micro-framework.
 
